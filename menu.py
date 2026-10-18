@@ -1,0 +1,5 @@
+print("menu")
+print("1. salad")
+print("2. pasta")
+print("3. pizza")
+print("4. burger")
